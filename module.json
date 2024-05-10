@@ -2,7 +2,7 @@
     "id": "materialdeck-forbidden-lands",
     "title": "Material Deck - Forbidden Lands",
     "description": "This module adds support for 'Forbidden Lands' to Material Deck.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "CDeenen",
@@ -21,8 +21,8 @@
             "type": "module",
             "manifest": "https://github.com/MaterialFoundry/MaterialDeck/releases/latest/download/module.json",
             "compatibility": {
-                "minimum": "1.7.0",
-                "verified": "1.7.0"
+                "minimum": "1.7.1",
+                "verified": "1.7.1"
             }
         }]
     },
@@ -33,5 +33,5 @@
     "manifestPlusVersion": "1.1.0",
     "url": "https://github.com/MaterialFoundry/MaterialDeck_Forbidden-Lands",
     "manifest": "https://github.com/MaterialFoundry/MaterialDeck_Forbidden-Lands/releases/latest/download/module.json",
-    "download": "https://github.com/MaterialFoundry/MaterialDeck_Forbidden-Lands/releases/download/v1.6.2/module.zip"
+    "download": "https://github.com/MaterialFoundry/MaterialDeck_Forbidden-Lands/releases/download/v1.0.1/module.zip"
 }
